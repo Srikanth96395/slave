@@ -1,0 +1,6 @@
+projectKey=sree:slave
+serverUrl=http://13.231.150.248:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://13.231.150.248:9000/dashboard?id=sree%3Aslave
+ceTaskId=AYfWn0_nWpJGtSpkFmb0
+ceTaskUrl=http://13.231.150.248:9000/api/ce/task?id=AYfWn0_nWpJGtSpkFmb0
